@@ -135,12 +135,21 @@ top: 110px;
 
 a{
   text-decoration: none;
+  color: rgb(18, 0, 119);
 }
 
 a:hover{
-  color: white;
+  color: rgb(19, 143, 141);
+  
 }
 
 pic{
   width:25px;
+}
+
+.skill-row1{
+  width: 50%;
+  margin: 50px auto;
+  line-height: 2;
+  text-align: center;
 }

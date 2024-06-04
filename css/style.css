@@ -70,11 +70,13 @@ top: 110px;
   width: 25%;
   float: left;
   margin-right: 30px;
+  margin-top: 70px;
 }
 .skill-img2{
   width: 25%;
   float: right;
   margin-left: 30px;
+  margin-top: 70px;
 }
 
 .profile{
@@ -126,7 +128,7 @@ top: 110px;
 }
 
 .profile-p{
-  width: 30%;
+  width: 50%;
   margin: auto;
 
 }
@@ -139,4 +141,6 @@ a:hover{
   color: white;
 }
 
-
+pic{
+  width:25px;
+}
